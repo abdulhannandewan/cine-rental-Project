@@ -4,7 +4,7 @@ import ComingSoonSvg from "../assets/icons/commingSoon.svg";
 import WatchLaterSvg from "../assets/icons/watchLater.svg";
 import FavoriteSvg from "../assets/icons/favourite.svg";
 
-const SideBer = () => {
+const Sideber = () => {
   return (
     <>
       <aside>
@@ -75,4 +75,4 @@ const SideBer = () => {
   );
 };
 
-export default SideBer;
+export default Sideber;
